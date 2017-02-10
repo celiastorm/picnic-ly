@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Picnic-ly</string>
+    <string name="edit_message">Cerca</string>
+    <string name="search_button"></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">Login</string>
+    <string name="title_activity_home">Picnic-ly</string>
+    <string name="search_location_here">Inserisci una località qui</string>
+    <string name="facebook_app_id">260863734343489</string>
+    <string name="facebook_app_id2">265203190575740</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Toast_Error">Errore</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="info">Informazioni</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="info_fragment">Picnic-ly 1.0
+        &#xA;Massive Dynamics
+        &#xA;picnicly.app@gmail.com</string>
+
+</resources>

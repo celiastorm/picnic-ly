@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924012133454",
+    "project_id": "picnic-ly"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924012133454:android:15cd8d058983e7a9",
+        "android_client_info": {
+          "package_name": "com.picnicly.picnic_ly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924012133454-3h6us97g40u2lbr2rvnipqith0jhbvp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJmuExQqWzz65WvfRWzT9jy5UM97YGidU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
